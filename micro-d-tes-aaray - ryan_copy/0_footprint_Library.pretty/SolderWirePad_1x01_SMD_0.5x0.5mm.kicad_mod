@@ -31,5 +31,5 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 01ff3dae-6121-4719-a263-2fe2b66c0a7c))
   (fp_line (start 0.63 1.27) (end -0.63 1.27)
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp ec9932cb-12c5-4503-8821-fc70807b25e3))
-  (pad "1" smd rect (at 0 0) (size 0.5 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9b1c97f7-ae17-44f3-9424-a07cf2ecd34d))
+  (pad "1" smd rect (at 0 0) (size 0.75 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9b1c97f7-ae17-44f3-9424-a07cf2ecd34d))
 )

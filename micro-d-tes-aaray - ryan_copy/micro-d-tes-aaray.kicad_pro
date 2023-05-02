@@ -447,7 +447,7 @@
       "idf": "",
       "netlist": "micro-d-tes-aaray.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "micro-d-tes-aaray.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
