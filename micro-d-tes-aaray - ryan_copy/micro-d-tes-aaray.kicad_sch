@@ -956,7 +956,7 @@
     (property "Datasheet" "~" (at 144.78 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 062aea4b-d39d-40d7-8056-17fbfd0b5775))
+    (pin "1" (uuid 275bb690-6739-4b1c-9aa7-c777191073ab))
     (instances
       (project "micro-d-tes-aaray"
         (path "/3f4bb771-00ec-41a2-9dfe-cfda0954dc64"
@@ -1531,7 +1531,7 @@
     (property "Datasheet" "~" (at 144.78 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e652ab72-639e-4738-afab-630758e28b1a))
+    (pin "1" (uuid b6e1f535-4a79-4381-accb-6b808dd6ce77))
     (instances
       (project "micro-d-tes-aaray"
         (path "/3f4bb771-00ec-41a2-9dfe-cfda0954dc64"
@@ -1843,7 +1843,7 @@
   (symbol (lib_id "Connector:Conn_01x01_Socket") (at 219.71 124.46 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8eda9c63-1d61-42d6-9515-71833d54c6fc)
-    (property "Reference" "J19" (at 196.85 125.73 0)
+    (property "Reference" "J1" (at 196.85 125.73 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_01x01_Socket" (at 209.55 125.73 0)
@@ -1859,7 +1859,7 @@
     (instances
       (project "micro-d-tes-aaray"
         (path "/3f4bb771-00ec-41a2-9dfe-cfda0954dc64"
-          (reference "J19") (unit 1)
+          (reference "J1") (unit 1)
         )
       )
     )
