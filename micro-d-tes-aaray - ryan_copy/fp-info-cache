@@ -1,4 +1,4 @@
-21673870477688604
+21675579578801786
 0_footprint_Library
 MountingHole_3mm_2-56_DIN965_Pad
 Mounting Hole 3.2mm, M3, DIN965
@@ -21,7 +21,14 @@ Norcomp-380-025-113L001-microd_Updated
 27
 26
 0_footprint_Library
-SolderWirePad_1x01_SMD_0.5x0.5mm
+SolderWirePad_1x01_SMD_0.5x2mm_1
+Wire Pad, Square, SMD Pad,  1mm x 2mm,
+MesurementPoint Square SMDPad 1mmx2mm 
+0
+1
+1
+0_footprint_Library
+SolderWirePad_1x01_SMD_0.7x2mm
 Wire Pad, Square, SMD Pad,  1mm x 2mm,
 MesurementPoint Square SMDPad 1mmx2mm 
 0

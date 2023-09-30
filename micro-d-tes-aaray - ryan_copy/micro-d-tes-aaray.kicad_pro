@@ -92,7 +92,7 @@
         "padstack": "warning",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_edge_clearance": "warning",
+        "silk_edge_clearance": "ignore",
         "silk_over_copper": "warning",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
@@ -177,7 +177,8 @@
       "track_widths": [
         0.0,
         0.0,
-        0.09
+        0.09,
+        0.1
       ],
       "via_dimensions": [
         {
@@ -447,7 +448,7 @@
       "idf": "",
       "netlist": "micro-d-tes-aaray.net",
       "specctra_dsn": "",
-      "step": "micro-d-tes-aaray.step",
+      "step": "micro-d-tes-aaray_new_test.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
