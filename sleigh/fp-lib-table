@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name sleigh)(type KiCad)(uri ${KIPRJMOD}/sleigh.pretty)(options "")(descr ""))
+)
