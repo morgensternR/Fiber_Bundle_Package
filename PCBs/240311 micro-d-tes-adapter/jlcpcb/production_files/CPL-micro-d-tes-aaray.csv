@@ -1,0 +1,16 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,C,C_0805_2012Metric,41.575,-38.705,0.0,top
+C2,C,C_0805_2012Metric,41.545,-49.405,0.0,top
+C3,C,C_0805_2012Metric,41.545,-58.415,0.0,top
+C4,C,C_0805_2012Metric,41.545,-67.425,0.0,top
+C5,C,C_0805_2012Metric,41.545,-30.435,0.0,top
+J1,Screw_Terminal_01x02,"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",41.49,-22.08,180.0,top
+J2,Screw_Terminal_01x02,"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",61.83,-23.79,90.0,top
+J3,Screw_Terminal_01x02,"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",61.69,-36.79,90.0,top
+J4,Screw_Terminal_01x02,"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",61.55,-49.79,90.0,top
+J5,Screw_Terminal_01x02,"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",61.41,-64.79,90.0,top
+J26,DB25_Plug,Norcomp-380-025-113L001-microd_Updated,22.6255,-46.45,270.0,bottom
+R1,R,R_0805_2012Metric,41.555,-35.685,0.0,top
+R2,R,R_0805_2012Metric,41.525,-45.415,0.0,top
+R3,R,R_0805_2012Metric,41.525,-55.365,0.0,top
+R4,R,R_0805_2012Metric,41.525,-64.315,0.0,top
